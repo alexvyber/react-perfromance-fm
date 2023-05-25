@@ -1,0 +1,9 @@
+[submodule "packing-list"]
+	path = packing-list
+	url = https://github.com/stevekinney/packing-list.git
+[submodule "wordman"]
+	path = wordman
+	url = https://github.com/stevekinney/wordman.git
+[submodule "hottest-takes"]
+	path = hottest-takes
+	url = https://github.com/stevekinney/hottest-takes.git
