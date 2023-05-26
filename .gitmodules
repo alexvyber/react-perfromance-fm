@@ -7,3 +7,9 @@
 [submodule "hottest-takes"]
 	path = hottest-takes
 	url = https://github.com/stevekinney/hottest-takes.git
+[submodule "lots-to-do"]
+	path = lots-to-do
+	url = https://github.com/stevekinney/lots-to-do.git
+[submodule "project-notes"]
+	path = project-notes
+	url = https://github.com/stevekinney/project-notes.git
